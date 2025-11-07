@@ -1,8 +1,8 @@
 Teleport UI
 90 degree garage doors
-cooler in camper
+minifridge in camper
 triangle elevators
 Camper module for transport heli
 Taps - Sprinklers
 Furnace Levels
-Barcode linking discore
+Scancode linking discord
