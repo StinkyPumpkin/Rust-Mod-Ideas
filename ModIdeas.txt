@@ -1,8 +1,24 @@
-Teleport UI
+# New Mod Ideas
+
+nTeleport UI
 90 degree garage doors
-minifridge in camper
 triangle elevators
-Camper module for transport heli
+Camper module for transport heli or chinook
 Taps - Sprinklers
 Furnace Levels
 Scancode linking discord
+
+
+
+# Created Prototype Mods
+
+BgradePlus.cs -- Adds skin selector and container colour selector to bgrade and fixes errors.
+Hydroponics.cs -- Adds other lights as growable lights. 
+TieredHeli.cs -- Adds Patrol heli tiers purchace with Economics and can be Events.
+CamperMinifridge.cs -- Adds a powered minifridge to camper module.
+ZoneMarkerSync.cs -- Auto adds coloured map markers to zones with certain names/flags.
+HornDoors.cs -- Edited Plugin so Autodoors can close after horn opens.
+MultiCommand.cs -- Run multiple commands with one command  defined in config.
+PlayerBasePvPZones -- Edited plugin so each player can switch pvp zones for owned bases on and off with timer. (Still in Development)
+
+
