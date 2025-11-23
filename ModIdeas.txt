@@ -22,6 +22,8 @@ MultiCommand.cs -- Run multiple commands with one command  defined in config.
 
 # Edited Existing Plugins
 
+EventsManager.cs -- Removed delete author X icon from screen.
+AdminMenu.cs -- Added 2 text input variables to commands. 
 HornDoors.cs -- Edited Plugin so Autodoors can close after horn opens.
 BgradePlus.cs -- Adds skin selector and container colour selector to bgrade and fixes errors.
 PlayerBasePvPZones -- Edited plugin so each player can switch pvp zones for owned bases on and off with timer. (Still in Development)
